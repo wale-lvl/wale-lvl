@@ -8,12 +8,10 @@
 - Cloud fundamentals and basic network security
 - Incident response and troubleshooting workflows
 
-💞️ I’m looking to collaborate on entry-level IT, help desk, or cybersecurity projects where I can learn and contribute
+💞️ I’m looking to collaborate on entry-level IT, or cybersecurity projects where I can learn and contribute
 
 📫 How to reach me:
 Email: walelvll@gmail.com
-
-## Hi there 👋
 
 <!--
 **wale-lvl/wale-lvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
