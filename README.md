@@ -4,7 +4,7 @@
 
 🌱 I’m currently building hands-on labs and projects focused on:
 - Help Desk ticketing systems
-- Active Directory and user management
+- Active Directory and user management 
 - Cloud fundamentals and basic network security
 - Incident response and troubleshooting workflows
 
