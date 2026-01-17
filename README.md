@@ -4,7 +4,8 @@
 
 🌱 I’m currently building hands-on labs and projects focused on:
 - Help Desk ticketing systems
-- Active Directory and user management 
+- [Active Directory and users management](https://github.com/wale-lvl/homelab/tree/main/active-directory))
+
 - Cloud fundamentals and basic network security
 - Incident response and troubleshooting workflows
 
