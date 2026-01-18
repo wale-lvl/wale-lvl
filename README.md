@@ -1,6 +1,6 @@
 👋 Hi, I’m @wale-lvl
 
-👀 I’m interested in IT support, help desk operations, and entry-level cybersecurity(soc)
+👀 I’m interested in IT support, help desk operations, and entry-level cybersecurity soc
 
 🌱 I’m currently building hands-on labs and projects focused on:
 - Help Desk ticketing systems
