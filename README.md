@@ -1,8 +1,8 @@
-👋 Hi, I’m @wale-lvl
+👋 Hi, I’m @wale-lvl, an IT Professional
 
 👀 I’m interested in IT support, help desk operations, and entry-level cybersecurity soc
 
-🌱 I’m currently building hands-on labs and projects focused on:
+🌱 Information Technology Projects:
 - [osTicket: configuration and ticket lifecycle examples](https://github.com/wale-lvl/osticket/tree/main)
 - [Active Directory and users management](https://github.com/wale-lvl/homelab/tree/main/active-directory)
 - Cloud fundamentals and basic network security
