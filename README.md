@@ -1,4 +1,4 @@
-👋 Hi, I’m @wale-lvl, an IT Professional
+👋 Hi, I’m @wale-lvl, an IT Professional[!IMPORTANT]
 
 👀 I’m interested in IT support, help desk operations, and entry-level cybersecurity soc
 
