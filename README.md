@@ -5,7 +5,7 @@
 - [Active Directory and users management](https://github.com/wale-lvl/homelab/tree/main/active-directory)
 - Cloud fundamentals and basic network security
 - Incident response and troubleshooting workflows
-- 
+  
 💞️ I’m looking to collaborate on entry-level IT, or cybersecurity projects where I can learn and contribute
 
 📫 How to reach me:
