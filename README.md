@@ -1,37 +1,33 @@
 # Ayowale Ogunnola — Junior SOC Analyst
 
-Security-focused IT professional building hands-on detection and monitoring
-projects. I don't just study cybersecurity — I deploy tools, generate real
-alerts, and write code to analyze them.
+Security-focused IT professional who deploys real tools, generates
+real alerts, and writes code to analyze them.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **SIEM:** Wazuh, Splunk (in progress)
 - **OS:** Windows Server, Ubuntu Server, Kali Linux
-- **Languages:** Python (log parsing, alert triage), PowerShell, Bash
-- **Protocols:** SSH, RDP, NTLM, SMB
+- **Languages:** Python, PowerShell, Bash
 - **Frameworks:** MITRE ATT&CK
-- **Lab:** VirtualBox, Active Directory, pfSense (Phase 2)
+- **Lab:** VirtualBox, Active Directory
 
-## 🔐 Security Projects
+## Security Projects
 
-### [SOC Home Lab — Wazuh SIEM + Alert Parser](https://github.com/wale-lvl/homelab/tree/main/siem-monitoring)
+### [SOC Home Lab - Wazuh SIEM + Alert Parser](https://github.com/wale-lvl/homelab/tree/main/siem-monitoring)
 Deployed Wazuh SIEM with a Windows 11 agent. Built a Python parser
-that categorizes real alerts across 7 threat types — brute force,
-lateral movement, log clearing, FIM, privilege escalation — with
-MITRE ATT&CK mapping and automated VirusTotal hash lookups.
+that detects brute force, lateral movement, log clearing, and file
+integrity violations with MITRE ATT&CK mapping.
 
 ### [Active Directory Lab](https://github.com/wale-lvl/homelab/tree/main/active-directory)
-Built an Active Directory environment with user management,
-group policy, and patch management workflows.
+Built an AD environment with user management and group policy.
 
-### [osTicket — Ticket Lifecycle](https://github.com/wale-lvl/osticket/tree/main)
-Configured and demonstrated a full IT helpdesk ticketing workflow.
+### [osTicket - Ticket Lifecycle](https://github.com/wale-lvl/osticket/tree/main)
+Configured a full IT helpdesk ticketing workflow.
 
-## 📈 Currently Building
-- Phase 2: Network traffic analysis with Wireshark
-- Phase 3: Log analysis and alert triage with Splunk
+## Currently Building
+- Network traffic analysis with Wireshark
+- Log analysis and alert triage with Splunk
 
-## 📫 Contact
+## Contact
 - **Email:** walelvll@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ayowale-ogunnola/
 
