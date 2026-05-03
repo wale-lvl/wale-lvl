@@ -24,7 +24,6 @@ Built an AD environment with user management and group policy.
 Configured a full IT helpdesk ticketing workflow.
 
 ## Currently Building
-- Network traffic analysis with Wireshark
 - Log analysis and alert triage with Splunk
 
 ## Contact
