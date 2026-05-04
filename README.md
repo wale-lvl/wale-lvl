@@ -4,7 +4,7 @@ Security-focused IT professional who deploys real tools, generates
 real alerts, and writes code to analyze them.
 
 ## Tools & Technologies
-- **SIEM:** Wazuh, Splunk (in progress)
+- **SIEM:** Wazuh, Splunk
 - **OS:** Windows Server, Ubuntu Server, Kali Linux
 - **Languages:** Python, PowerShell, Bash
 - **Frameworks:** MITRE ATT&CK
@@ -24,7 +24,7 @@ Built an AD environment with user management and group policy.
 Configured a full IT helpdesk ticketing workflow.
 
 ## Currently Building
-- Log analysis and alert triage with Splunk
+- Threat detection and incident response playbook
 
 ## Contact
 - **Email:** walelvll@gmail.com
