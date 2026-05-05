@@ -5,7 +5,7 @@ real alerts, and writes code to analyze them.
 
 ## Tools & Technologies
 - **SIEM:** Wazuh, Splunk
-- **OS:** Windows Server, Ubuntu Server, Kali Linux
+- **OS:** Windows Server, Ubuntu Server, Kali Linux, Windows 11/10
 - **Languages:** Python, PowerShell, Bash
 - **Frameworks:** MITRE ATT&CK
 - **Lab:** VirtualBox, Active Directory
