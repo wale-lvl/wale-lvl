@@ -24,7 +24,7 @@ Built an AD environment with user management and group policy.
 Configured a full IT helpdesk ticketing workflow.
 
 ## Currently Building
-- Threat detection and incident response playbook
+- Cloud security monitoring on AWS free tier
 
 ## Contact
 - **Email:** walelvll@gmail.com
