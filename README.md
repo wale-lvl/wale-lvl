@@ -1,30 +1,20 @@
-# Ayowale Ogunnola — Junior SOC Analyst
+# Ayowale Ogunnola
 
-Security-focused IT professional who deploys real tools, generates
-real alerts, and writes code to analyze them.
-
-## Tools & Technologies
-- **SIEM:** Wazuh, Splunk
-- **OS:** Windows Server, Ubuntu Server, Kali Linux, Windows 11/10
-- **Languages:** Python, PowerShell, Bash
-- **Frameworks:** MITRE ATT&CK
-- **Lab:** VirtualBox, Active Directory
+IT professional transitioning into cybersecurity. I build security
+projects to prove hands-on skills alongside my support background.
 
 ## Security Projects
+- [SOC Home Lab — Wazuh SIEM + Alert Parser](https://github.com/wale-lvl/homelab/tree/main/siem-monitoring) — deployed Wazuh, built Python parser with MITRE ATT&CK mapping
+- [Network Traffic Analyzer](https://github.com/wale-lvl/homelab/tree/main/network-analysis) — PCAP analysis with tshark and Python
+- [Incident Response Playbook](https://github.com/wale-lvl/homelab/tree/main/incident-response) — automated triage script and 5-scenario SOC playbook
+- [AWS CloudTrail Analyzer](https://github.com/wale-lvl/homelab/tree/main/cloud-security) — live cloud security monitoring with boto3
+- [Active Directory Lab](https://github.com/wale-lvl/homelab/tree/main/active-directory) — AD environment with user management and group policy
 
-### [SOC Home Lab - Wazuh SIEM + Alert Parser](https://github.com/wale-lvl/homelab/tree/main/siem-monitoring)
-Deployed Wazuh SIEM with a Windows 11 agent. Built a Python parser
-that detects brute force, lateral movement, log clearing, and file
-integrity violations with MITRE ATT&CK mapping.
+## Tools
+Wazuh · Splunk · Python · AWS · Wireshark · Active Directory · PowerShell · MITRE ATT&CK
 
-### [Active Directory Lab](https://github.com/wale-lvl/homelab/tree/main/active-directory)
-Built an AD environment with user management and group policy.
-
-### [osTicket - Ticket Lifecycle](https://github.com/wale-lvl/osticket/tree/main)
-Configured a full IT helpdesk ticketing workflow.
-
-## Currently Building
-- Cloud security monitoring on AWS free tier
+## Contact
+walelvll@gmail.com · [LinkedIn](https://www.linkedin.com/in/ayowale-ogunnola/)
 
 ## Contact
 - **Email:** walelvll@gmail.com
