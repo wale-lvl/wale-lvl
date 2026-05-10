@@ -3,17 +3,16 @@
 IT professional transitioning into cybersecurity. I build security
 projects to prove hands-on skills alongside my support background.
 
-## Security Projects
-- [SOC Home Lab — Wazuh SIEM + Alert Parser](https://github.com/wale-lvl/homelab/tree/main/siem-monitoring) — deployed Wazuh, built Python parser with MITRE ATT&CK mapping
-- [Network Traffic Analyzer](https://github.com/wale-lvl/homelab/tree/main/network-analysis) — PCAP analysis with tshark and Python
-- [Incident Response Playbook](https://github.com/wale-lvl/homelab/tree/main/incident-response) — automated triage script and 5-scenario SOC playbook
-- [AWS CloudTrail Analyzer](https://github.com/wale-lvl/homelab/tree/main/cloud-security) — live cloud security monitoring with boto3
-- [Active Directory Lab](https://github.com/wale-lvl/homelab/tree/main/active-directory) — AD environment with user management and group policy
-
-## Tools
+# Security Projects
+- [SOC Home Lab — Wazuh SIEM + Alert Parser](https://github.com/wale-lvl/homelab/tree/main/siem-monitoring) 
+- [Network Traffic Analyzer](https://github.com/wale-lvl/homelab/tree/main/network-analysis)
+- [Incident Response Playbook](https://github.com/wale-lvl/homelab/tree/main/incident-response)
+- [AWS CloudTrail Analyzer](https://github.com/wale-lvl/homelab/tree/main/cloud-security)
+- [Active Directory Lab](https://github.com/wale-lvl/homelab/tree/main/active-directory) 
+# Tools
 Wazuh · Splunk · Python · AWS · Wireshark · Active Directory · PowerShell · MITRE ATT&CK
 
-## Contact
+# Contact
 walelvll@gmail.com · [LinkedIn](https://www.linkedin.com/in/ayowale-ogunnola/)
 
 ## Contact
