@@ -1,35 +1,28 @@
 # Ayowale Ogunnola
 
-IT professional transitioning into cybersecurity. I build security
-projects to prove hands-on skills alongside my support background.
+Security-focused IT professional with hands-on experience in SIEM monitoring, incident response, Active Directory administration, cloud security, and threat detection through practical projects and lab environments.
 
-# Security Projects
-- [SOC Home Lab — Wazuh SIEM + Alert Parser](https://github.com/wale-lvl/homelab/tree/main/siem-monitoring) 
-- [Network Traffic Analyzer](https://github.com/wale-lvl/homelab/tree/main/network-analysis)
-- [Incident Response Playbook](https://github.com/wale-lvl/homelab/tree/main/incident-response)
-- [AWS CloudTrail Analyzer](https://github.com/wale-lvl/homelab/tree/main/cloud-security)
-- [Active Directory Lab](https://github.com/wale-lvl/homelab/tree/main/active-directory) 
-# Tools
-Wazuh · Splunk · Python · AWS · Wireshark · Active Directory · PowerShell · MITRE ATT&CK
+## Security Projects
 
-# Contact
-walelvll@gmail.com · [LinkedIn](https://www.linkedin.com/in/ayowale-ogunnola/)
+- SOC Home Lab — Wazuh SIEM, alert triage, log analysis, and threat detection
+- Network Traffic Analyzer — Python-based network monitoring and analysis
+- Incident Response Playbook — Structured incident investigation and response workflows
+- AWS CloudTrail Analyzer — Cloud security monitoring and log analysis
+- Active Directory Lab — Windows Server 2022 domain administration and user management
+
+## Tools & Technologies
+
+Wazuh • Splunk • Elastic Security • Python • AWS CloudTrail • Wireshark • Active Directory • PowerShell • MITRE ATT&CK
+
+## Certifications & Training
+
+- Elastic Security for SIEM
+- IBM Cybersecurity Fundamentals
+- Cisco Introduction to Cybersecurity
+- Jason Dion Security+ Training (Completed)
 
 ## Contact
-- **Email:** walelvll@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ayowale-ogunnola/
 
-<!--
-**wale-lvl/wale-lvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email: ogunnolayowale@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: linkedin.com/in/ayowale-ogunnola
