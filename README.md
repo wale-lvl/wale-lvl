@@ -4,25 +4,26 @@ Security-focused IT professional with hands-on experience in SIEM monitoring, in
 
 ## Security Projects
 
-- SOC Home Lab — Wazuh SIEM, alert triage, log analysis, and threat detection
-- Network Traffic Analyzer — Python-based network monitoring and analysis
-- Incident Response Playbook — Structured incident investigation and response workflows
-- AWS CloudTrail Analyzer — Cloud security monitoring and log analysis
-- Active Directory Lab — Windows Server 2022 domain administration and user management
+- [SOC Home Lab — Wazuh SIEM + Alert Parser](https://github.com/wale-lvl/homelab/tree/main/siem-monitoring) 
+- [Network Traffic Analyzer](https://github.com/wale-lvl/homelab/tree/main/network-analysis)
+- [Incident Response Playbook](https://github.com/wale-lvl/homelab/tree/main/incident-response)
+- [AWS CloudTrail Analyzer](https://github.com/wale-lvl/homelab/tree/main/cloud-security)
+- [Active Directory Lab](https://github.com/wale-lvl/homelab/tree/main/active-directory)
 
-## Tools & Technologies
-
+**Tools**
 Wazuh • Splunk • Elastic Security • Python • AWS CloudTrail • Wireshark • Active Directory • PowerShell • MITRE ATT&CK
 
-## Certifications & Training
+## Certifications
 
-- Elastic Security for SIEM
 - IBM Cybersecurity Fundamentals
 - Cisco Introduction to Cybersecurity
+- Elastic Security for SIEM
+- Verizon Cloud Platform Job Simulation
 - Jason Dion Security+ Training (Completed)
 
 ## Contact
 
-Email: ogunnolayowale@gmail.com
+📧 ogunnolayowale@gmail.com
 
-LinkedIn: linkedin.com/in/ayowale-ogunnola
+🔗 LinkedIn:
+https://www.linkedin.com/in/ayowale-ogunnola/
