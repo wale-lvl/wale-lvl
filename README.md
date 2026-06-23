@@ -13,14 +13,14 @@ Security-focused IT professional with hands-on experience in SIEM monitoring, in
 **Tools**
 Wazuh • Splunk • Elastic Security • Python • AWS CloudTrail • Wireshark • Active Directory • PowerShell • MITRE ATT&CK
 
-## Certifications
+<!-- ## Certifications
 
 - IBM Cybersecurity Fundamentals
 - Cisco Introduction to Cybersecurity
 - Elastic Security for SIEM
 - Verizon Cloud Platform Job Simulation
 - Jason Dion Security+ Training (Completed)
-
+--->
 ## Contact
 
 📧 ogunnolayowale@gmail.com
